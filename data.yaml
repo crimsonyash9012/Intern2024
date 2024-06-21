@@ -1,0 +1,10 @@
+
+# train and val data
+train:  /content/drive/MyDrive/datasets/data/train/images
+val: /content/drive/MyDrive/datasets/data/val/images
+
+# number of classes
+nc: 3
+
+# class names
+names: ['pistol','revolver','rifle']
